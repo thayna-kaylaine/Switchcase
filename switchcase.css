@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.topo{
+	width: 100vw;
+	height: 15vh;
+	background-color: DeepSkyBlue;
+}
+.menu{
+	width: 100vw;
+	height: 15vh;
+	background-color: Blue;
+}
+.container{
+	width: 100vw;
+	height: 60vh;
+	background-color: Turquoise;
+}
+.rodape{
+	width: 100vw;
+	height: 15vh;
+	background-color: Lime;
+}
